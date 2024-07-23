@@ -291,6 +291,11 @@ align-items: center;}
             background-color: #404bbf;
         }
 
+        .instagram {
+            fill: #f4f4fd; 
+            
+        }
+
 .team-subtitle {
     font-weight: 500;
     font-size: 20px;
