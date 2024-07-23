@@ -296,6 +296,10 @@ align-items: center;}
             background-color: #404bbf;
         }
 
+        .social-media-icons-list-link:focus {
+            background-color: #404bbf;
+        }
+
         .instagram {
             fill: #f4f4fd; 
             
