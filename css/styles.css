@@ -410,7 +410,7 @@ transform: translateY(0%);
 .big-footer-container {display: flex; 
     align-items: baseline}
 
-    .container {margin-right: 120px;
+    .container-footer {margin-right: 120px;
     }
 
     .social-media-paragraph-footer {
