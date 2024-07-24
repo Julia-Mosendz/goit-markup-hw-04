@@ -450,6 +450,10 @@ transform: translateY(0%);
     background-color: #31d0aa;
 }
 
+.social-media-list-footer-link:focus {
+    background-color: #31d0aa;
+}
+
 .page-footer {
     background-color: #2e2f42;
     padding: 100px 0;
