@@ -410,6 +410,18 @@ transform: translateY(0%);
 .big-footer-container {display: flex; 
     align-items: baseline}
 
+    .container {margin-right: 120px;
+    }
+
+    .social-media-paragraph-footer {
+        font-weight: 500; 
+        font-size: 16px; 
+        line-height: 1.5; 
+        letter-spacing: 0.02em; 
+        color: #FFFFFF; 
+        margin-bottom: 16px; 
+        
+    }
 
 .page-footer {
     background-color: #2e2f42;
