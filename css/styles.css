@@ -368,6 +368,8 @@ margin-bottom: 8px;}
 transform: translateY(0%);
 }
 
+.section-four-firstli:hover p {transform: translateY(0%);}
+
 .cardswithtext {
     position: absolute; 
     top: 0; 
