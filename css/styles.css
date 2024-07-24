@@ -420,8 +420,14 @@ transform: translateY(0%);
         letter-spacing: 0.02em; 
         color: #FFFFFF; 
         margin-bottom: 16px; 
-        
+
     }
+
+.social-media-list-footer {
+    display: flex; 
+    gap: 16px; 
+    
+}
 
 .page-footer {
     background-color: #2e2f42;
