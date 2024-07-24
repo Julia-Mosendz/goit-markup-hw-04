@@ -351,6 +351,7 @@ margin-bottom: 8px;}
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    transform: translateY(0%);
 }
 
 .section-four-list:hover {
